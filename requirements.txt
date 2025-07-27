@@ -6,4 +6,6 @@ flask-sqlalchemy
 flask-jwt-extended
 passlib
 gunicorn
+psycopg2
+
 
